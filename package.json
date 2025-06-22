@@ -1,0 +1,53 @@
+{
+    "name": "frontend-starter",
+    "version": "1.0.0",
+    "description": "A modern, beautiful Next.js 14 starter kit for building amazing web applications with style and speed. Perfect for developers who want to ship fast with beautiful, modern designs.",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint",
+        "type-check": "tsc --noEmit"
+    },
+    "dependencies": {
+        "next": "14.0.4",
+        "react": "^18",
+        "react-dom": "^18",
+        "lucide-react": "^0.294.0"
+    },
+    "devDependencies": {
+        "typescript": "^5",
+        "@types/node": "^20",
+        "@types/react": "^18",
+        "@types/react-dom": "^18",
+        "autoprefixer": "^10.0.1",
+        "postcss": "^8",
+        "tailwindcss": "^3.3.0",
+        "daisyui": "^4.4.20",
+        "eslint": "^8",
+        "eslint-config-next": "14.0.4"
+    },
+    "keywords": [
+        "nextjs",
+        "typescript",
+        "tailwindcss",
+        "daisyui",
+        "starter-kit",
+        "frontend",
+        "web-development",
+        "react",
+        "modern-ui",
+        "vibe-coding"
+    ],
+    "author": "Front-end Starter Team",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yourusername/frontend-starter.git"
+    },
+    "bugs": {
+        "url": "https://github.com/yourusername/frontend-starter/issues"
+    },
+    "homepage": "https://github.com/yourusername/frontend-starter#readme"
+}
